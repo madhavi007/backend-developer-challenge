@@ -1,9 +1,5 @@
 # Back End Developer Challenge 2020 #
 
-Welcome to the Wise Publishing Back End Developer Challenge!
-
-### Your Goal
-
 #### First Task
 Your project is to develop an administration panel using Laravel that allows a user to save quotes from their favourite TV show to a MySQL database.
 
@@ -67,37 +63,3 @@ The objective is to do this with the minimum queries to the database.
 5. Much more can be added with suggestion and feedback.
 
 6. Do checkout my personal website made using basic front end technology [here](https://madhavi007.github.io/MadhaviJariwala/)
-
-### Assessment
-We’re looking to evaluate the following skills in basic Laravel:
- 
- * MVC
- 
- * CRUD and Resource Controllers
- 
- * Eloquent and Relationships
- 
- * Database migrations
- 
- * Basic Bootstrap front-end
- 
- * Efficient Database queries.
-
-
-### Hints
-Laravel has great [documentation](https://laravel.com/docs/master) that will definitely help you through out this challenge.
-
-
-### Submissions
-
-* Clone this repository and link us your completed repo on either BitBucket or GitHub
-
-
-### Finally
-
-Take this seriously! Last year we placed both of our interns in to full time positions!
-
-
-*GOOD LUCK!!*
-
-
