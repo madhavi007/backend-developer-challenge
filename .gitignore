@@ -1,0 +1,16 @@
+*.DS_Store
+/ap_copi.sql.zip
+/ap_states.sql.zip
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/data/

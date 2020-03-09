@@ -14,6 +14,17 @@ You’re then to build a page to output the information the user has saved to th
 ##### BONUS:
 Insert a random photo alongside each quote, accessed via [https://picsum.photos/](https://picsum.photos/) API.
 
+##### Development Notes For First Task
+1. Added Auth functionality in project
+
+2. Made model and migration for UserQuote.
+
+3. Defined routes, method to pass data from controller to view and store and update data in database.
+
+4. Added Bootstrap, FontAwesome and Jquery CDN for elements display. 
+
+5. Added packages such as Toastr for toast message,Image for store images to specific place.
+
 
 #### Second Task
 In the same Laravel project, I want you to write an artisan command to output to console screen, the average prices for each of the food items by state.
@@ -31,6 +42,31 @@ Where X is the average value by state. So it should be all 50 states output to t
 
 The objective is to do this with the minimum queries to the database.
 
+##### Development Notes For Second Task
+
+1. Made model and migration for both tables.
+
+2. Imported both tables to database.
+
+3. Made command CountItem in laravel.
+
+4. Added query logic in command handle.
+
+5. Call command in console using count:item
+
+#### Future Tasks
+
+1. Add pagination in all display files.
+
+2. Add filters based on newest,oldest etc.
+
+3. Add search by user_id, episode, season or quote.
+
+4. Add permission in users table to access pages.
+
+5. Much more can be added with suggestion and feedback.
+
+6. Do checkout my personal website made using basic front end technology [here](https://madhavi007.github.io/MadhaviJariwala/)
 
 ### Assessment
 We’re looking to evaluate the following skills in basic Laravel:
